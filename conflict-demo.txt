@@ -1,1 +1,1 @@
-LINE=from-B 
+LINE=from-A-and-B
